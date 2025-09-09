@@ -1,0 +1,23 @@
+[
+  {
+    "id": "tenant_1",
+    "name": "Demo Company",
+    "userId": "user_1",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "stripeCustomerId": "cus_T1Jlk5dHyHlcjV"
+  },
+  {
+    "id": "tenant_1757381933707",
+    "name": "hello",
+    "userId": "user_1",
+    "createdAt": "2025-09-09T01:38:53.707Z",
+    "stripeCustomerId": "cus_T1JCC8KmrPOYOT"
+  },
+  {
+    "id": "tenant_1757381933707_2",
+    "name": "hello2",
+    "userId": "user_2",
+    "createdAt": "2025-09-09T01:38:53.707Z",
+    "stripeCustomerId": "cus_T1JnT1Im1PKzQ9"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": "sub_1757384495739",
+    "tenantId": "tenant_1757381933707_2",
+    "stripeSubscriptionId": "sub_1S5HBXJyajMjNrNVh3uOT8cr",
+    "stripeSubscriptionItemId": "si_T1JpoYg4MoLORK",
+    "priceId": "price_1S52OZJyajMjNrNV9OJHqFfY",
+    "status": "active",
+    "currentPeriodStart": "2025-09-09T02:21:31.000Z",
+    "currentPeriodEnd": "2025-10-09T02:21:31.000Z",
+    "cancelAtPeriodEnd": false,
+    "createdAt": "2025-09-09T02:21:35.739Z",
+    "updatedAt": "2025-09-09T02:22:07.818Z"
+  }
+]
